@@ -13,3 +13,4 @@
    - Speed ~ 36 steps/s
    
 3. Gráficos:
+   - Recompensa por episódio: ![reward](reward_game.pdf)
