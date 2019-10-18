@@ -1,4 +1,4 @@
-![0](DQN/resultados/1/imgs/action_repeat0.png)
+![0](action_repeat0.png)
 ![1](https://github.com/Cassio-4/superMarioRL/blob/master/DQN/resultados/1/imgs/action_repeat1.png)
 ![2](https://github.com/Cassio-4/superMarioRL/blob/master/DQN/resultados/1/imgs/action_repeat2.png)
 ![3](https://github.com/Cassio-4/superMarioRL/blob/master/DQN/resultados/1/imgs/action_repeat3.png)
