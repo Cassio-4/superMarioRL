@@ -1,6 +1,6 @@
 1. Parâmetros
    - ROM: Standard ROM
-   - #Games: 10K
+   - Epochs: 10 where 1 epoch = 1000 games
    - Experience Replay Buffer size: 10K
    - Batch Size: 32
    - Gamma: 0.99
