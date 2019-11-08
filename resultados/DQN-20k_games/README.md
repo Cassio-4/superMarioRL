@@ -11,4 +11,5 @@
    - Função de recompensa original.
    - Sem reset quando Mario fica preso.
    - Speed ~ 36 steps/s
+   - tempo total ~ 58 hs
    - CONVERGIU!
