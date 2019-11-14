@@ -1,4 +1,4 @@
-1. Parâmetros
+1. Hyperparameters
    - ROM: Standard ROM
    - Epochs: 500 where 1 epoch = 50 games played(total of 25k episodes)
    - Experience Replay Buffer size: 10K
